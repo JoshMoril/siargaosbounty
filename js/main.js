@@ -1,3 +1,9 @@
+/* ─────────────────────────────────────────────
+   Built & maintained by Joshua Moril
+   Siargao's Bounty Seafoods Corporation · 2026
+   Cebu, Philippines
+   ───────────────────────────────────────────── */
+
 /* ============================================
    SIARGAO'S BOUNTY SEAFOODS — MAIN JS
    ============================================ */
